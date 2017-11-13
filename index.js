@@ -10,7 +10,7 @@ function coinToss() {
 }
 function tailsNeverFails() {
   var tailCount = 0
-  while coinToss(){
+  while (coinToss()) {
   tailCount++
   }
   return `You got ${tailCount} tails in a row!`
