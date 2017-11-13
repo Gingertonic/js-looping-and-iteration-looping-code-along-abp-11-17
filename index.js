@@ -7,5 +7,8 @@ function printBadges(list) {
 
 function tailsNeverFails() {
   var tailCount = 0
-  while Math.random >= 0.5 {tailCount ++}
+  while Math.random >= 0.5 {
+  (tailCount + 1)
+  }
+  return `You got ${tailCount} tails in a row!`
 }
