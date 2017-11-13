@@ -6,5 +6,6 @@ function printBadges(list) {
 }
 
 function tailsNeverFails() {
-  while Math.random >= 0.5 {counter ++}
+  var tailCount = 0
+  while Math.random >= 0.5 {tailCount ++}
 }
