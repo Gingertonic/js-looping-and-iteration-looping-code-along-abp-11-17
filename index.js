@@ -3,3 +3,5 @@ function printBadges(list) {
     console.log(`Welcome ${list[i]}! You are employee ${i+1}`)
   }
 }
+
+bbhbhjb
