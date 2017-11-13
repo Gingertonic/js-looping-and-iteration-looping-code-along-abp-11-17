@@ -6,7 +6,7 @@ function printBadges(list) {
 }
 
 function coinToss() {
-  return Math.random >= 0.5;
+  return Math.random() >= 0.5;
 }
 function tailsNeverFails() {
   var tailCount = 0
