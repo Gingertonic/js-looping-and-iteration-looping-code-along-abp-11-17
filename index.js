@@ -4,3 +4,8 @@ function printBadges(list) {
   }
   return list
 }
+
+function tailsNeverFails() {
+  while Math.random >= 0.5 {
+  }
+}
